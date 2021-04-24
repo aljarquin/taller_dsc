@@ -7,5 +7,6 @@ Carrera: Mecatronica
 Otra linea
 
 personal1
+personal2
 
 Otro dato
